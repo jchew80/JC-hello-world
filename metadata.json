@@ -1,0 +1,6 @@
+{
+  "name": "Hello World",
+  "description": "An interactive Hello World presentation website featuring fluid moving blue waves, oceanic harmonics, and modern typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
